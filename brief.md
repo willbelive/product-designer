@@ -1,7 +1,3 @@
-Here's the parallel version, mirroring the structure of the original you just shared:
-
----
-
 # Challenge: Product Designer 005
 
 ## Redesign: B2B Onboarding Flow with 60% Drop-off
